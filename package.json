@@ -2,7 +2,6 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suryagoswami13.github.io/monster",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -16,9 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d monster-rolodex"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
